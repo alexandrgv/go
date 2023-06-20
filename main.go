@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 /*
 func main(x, y int) int {
   return x + y
