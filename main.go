@@ -1,5 +1,12 @@
 package main
 
+func main(x, y int) int {
+  return x + y
+}
+
+/*
+package main
+
 import (
 	"fmt"
 
@@ -9,3 +16,4 @@ import (
 func main() {
 	fmt.Println(stringutil.Reverse("!selpmaxe oG ,olleH"))
 }
+*/
