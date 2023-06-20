@@ -9,7 +9,7 @@ func main(x, y int) int {
 */
 
 func main() {
-  fmt.Println(stringutil.Reverse("!selpmaxe oG ,olleH"))
+  
 }
 
 /*
