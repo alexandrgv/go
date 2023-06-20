@@ -1,7 +1,18 @@
 package main
 
+import (
+  "golang.org/x/tools/go/analysis/passes/fieldalignment"
+  "golang.org/x/tools/go/analysis/singlechecker"
+)
+
+/*
 func main(x, y int) int {
   return x + y
+}
+*/
+
+func main() {
+  fmt.Println(stringutil.Reverse("!selpmaxe oG ,olleH"))
 }
 
 /*
@@ -14,6 +25,6 @@ import (
 )
 
 func main() {
-	fmt.Println(stringutil.Reverse("!selpmaxe oG ,olleH"))
+  fmt.Println(stringutil.Reverse("!selpmaxe oG ,olleH"))
 }
 */
