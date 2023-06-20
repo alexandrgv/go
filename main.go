@@ -1,9 +1,6 @@
 package main
 
-import (
-  "golang.org/x/tools/go/analysis/passes/fieldalignment"
-  "golang.org/x/tools/go/analysis/singlechecker"
-)
+import "fmt"
 
 /*
 func main(x, y int) int {
