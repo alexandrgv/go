@@ -6,3 +6,6 @@ func AddTwo(x, y int) int {
 
 func main() {
 }
+
+func simpleGitHub() {
+}
